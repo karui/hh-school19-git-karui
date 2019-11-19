@@ -1,0 +1,8 @@
+итого 24
+drwxr-xr-x 3 amigo amigo 4096 ноя 19 19:47 .
+drwxr-xr-x 4 amigo amigo 4096 ноя 19 19:01 ..
+drwxr-xr-x 8 amigo amigo 4096 ноя 19 19:45 .git
+-rw-r--r-- 1 amigo amigo   12 ноя 19 19:30 .gitignore
+-rw-r--r-- 1 amigo amigo    0 ноя 19 19:47 list_of_files.txt
+-rw-r--r-- 1 amigo amigo   24 ноя 19 19:13 README.md
+-rw-r--r-- 1 amigo amigo   27 ноя 19 19:44 some.txt
